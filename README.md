@@ -57,4 +57,4 @@ Describe any challenges encountered while building the app.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[Click here to see the Apache License page](https://www.apache.org/licenses/LICENSE-2.0). doodly doot. 
+[Click here to see the Apache License page](https://www.apache.org/licenses/LICENSE-2.0).
