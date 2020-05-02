@@ -2,7 +2,7 @@
 
 [README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
 
-# *THE APP HERE*
+# *THE APP's NAME HERE*
 
 **Name of your app** is a **Kind of** app using the **Whichever API**.
 
