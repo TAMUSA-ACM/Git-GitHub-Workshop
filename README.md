@@ -5,7 +5,8 @@
 * Select where you want to Fork the Repository to
 * Wait for it to reproduce in that Organization
 <img src='https://recordit.co/QFCxj6Co23.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
-GIF created with [RecordIt](https://www.recordit.co)
+GIF created with 
+[RecordIt](https://www.recordit.co)
 
 ## Add a file to your forked Repository
 
