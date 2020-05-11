@@ -1,16 +1,19 @@
 # GitHub-Workshop-Practice
 
 ## Fork this Repository
-* Click on the Fork button
+* Click on the 'Fork' button
 * Select where you want to Fork the Repository to
 * Wait for it to reproduce in that Organization
 <img src='https://recordit.co/QFCxj6Co23.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
-GIF created with 
-[RecordIt](https://www.recordit.co)
 
 ## Add a file to your forked Repository
+* Click on the 'Create new file' button
+* Name and give your new file a valid extension
+* Add content to the file
+* Give a title to the commit
+<img src='https://recordit.co/3U1aiuQU8A.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
-## 
+## Create a Pull Request
 
 
 
