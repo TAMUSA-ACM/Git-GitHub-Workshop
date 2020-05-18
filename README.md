@@ -26,7 +26,17 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 <img src='https://recordit.co/AbXU1AgkjQ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />    
 
 ### Star this Repository
-Add details..
+* You can star repositories and topics to keep track of projects you find interesting and discover related content in your news feed
+* You can search, sort, and filter your starred repositories and topics on your stars page
+    * Click on your 'Avatar' dropdown menu and select 'Your Stars'
+* Starring makes it easy to find a repository or topic again later
+* You can see all the repositories and topics you have starred by going to your stars page
+* You can star repositories and topics to discover similar projects on GitHub
+* When you star repositories or topics, GitHub may recommend related content in the discovery view of your news feed
+    * For more information, see "Finding ways to contribute to open source on GitHub."
+* Starring a repository also shows appreciation to the repository maintainer for their work
+* Many of GitHub's repository rankings depend on the number of stars a repository has
+* In addition, Explore shows popular repositories based on the number of stars they have
 
 ### Fork this Repository
 * Click on the 'Fork' button
