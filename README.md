@@ -1,21 +1,74 @@
 # Git + GitHub Workshop
 
-## Fork this Repository
+## Workshop Decription
+Add description...
+
+### Watch this Repository
+Add details...
+
+### Star this Repository
+Add details..
+
+### Fork this Repository
 * Click on the 'Fork' button
 * Select where you want to Fork the Repository to
 * Wait for it to reproduce in that Organization
 <img src='https://recordit.co/QFCxj6Co23.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
-## Add a file to your forked Repository
+### Add a file to your forked Repository
 * Click on the 'Create new file' button
 * Name and give your new file a valid extension
 * Add content to the file
 * Give a title to the commit
 <img src='https://recordit.co/3U1aiuQU8A.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
-## Create a Pull Request
+### Create a Pull Request
+* Click on the 'New pull request' button
+* Review the changes you made to the Main Project
+* Click on the 'Create pull request' button
+* Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
+<img src='https://recordit.co/4GI5TP9T0M.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
+### Review the Code
+Add details...
 
+### Open an Issue
+Add details...
+
+### Close an Issue
+Add details...
+
+### Owner Approves Pull Request
+* Owner is notified under the 'Pull requests' tab
+* Click on the 'Pull requests' tab to open the dialog
+* Review the changes that are being proposed to your Project
+* Click on the 'Merge pull request' button to approve the changes
+* Click on the 'Confirm merge' button to confirm the merging of the two Projects
+* Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
+<img src='https://recordit.co/sHds7wlqZG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
+### Create an Action
+* Click on the 'Actions' tab to open the dialog
+* Review the prebuilt Actions to determine if they suit your needs
+* After finding your preferred workflow, click on the 'Set up this workflow' button
+* Review the .yml code to ensure it is correct and you do not have to add file names, keys, etc to run the action 
+* Click on the 'Start Commit' button
+* Add a commit message to the commit
+* Select which branch to commit the action
+* Click on 'Commit new file' button
+<img src='https://recordit.co/x5KjdwiyhJ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
+### Create a Project
+Add details...
+
+### Create a Wiki
+Add details...
+
+### Create a Security Policy
+Add details...
+
+### Review Insights
+Add details...
 
 
 ## README.md Template
