@@ -1,7 +1,7 @@
 # Git + GitHub Workshop
 
-## Workshop Decription
 ---
+## Workshop Decription
 This workshop is setup to give an overview of Git and a hands-on exercises on a GitHub practice GitHub repository. At the end of the workshop you should be able to:
 * identify Git, GitHub, and the differences between Git and GitHub
 * describe how Git works
