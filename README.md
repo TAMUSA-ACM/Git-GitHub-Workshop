@@ -2,7 +2,18 @@
 
 ## Workshop Decription
 This workshop is setup to give an overview of Git and a hands-on exercises on a GitHub practice GitHub repository. At the end of the workshop you should be able to:
-`* identify the differences between Git and GitHub`
+* identify Git, GitHub, and the differences between Git and GitHub
+* describe how Git works
+* follow, favorite, and fork a repository in Github
+* commit to, push to, pull to, clone, download, and open a repository 
+* add and close an issue in GitHub
+* start a pull request and approve a pull request
+* add a GitHub action and a GitHb package
+* set up a GitHub Project and a GitHub Wiki
+* add security options to a repository
+* understand the insights and setting for a repository
+* customize their GitHub profile page
+* create a professional level README.md for a repository
 
 ### Watch this Repository
 Add details...
@@ -57,6 +68,7 @@ Add details...
 * Add a commit message to the commit
 * Select which branch to commit the action
 * Click on 'Commit new file' button
+[More on GitHub Actions](https://scotch.io/bar-talk/introducing-github-actions)
 <img src='https://recordit.co/x5KjdwiyhJ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ### Create a Project
