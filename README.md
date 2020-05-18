@@ -17,7 +17,13 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * create a professional level README.md for a repository
 ---
 ### Watch this Repository
-Add details...
+* Click on the 'Watch' dropdown menu
+* Select your preferred notification level
+    * Not watching
+    * Releases only
+    * Watching
+    * Ignoring
+<img src='https://recordit.co/AbXU1AgkjQ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />    
 
 ### Star this Repository
 Add details..
