@@ -1,4 +1,4 @@
-# GitHub-Workshop-Practice
+# Git + GitHub Workshop
 
 ## Fork this Repository
 * Click on the 'Fork' button
