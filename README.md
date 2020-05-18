@@ -33,7 +33,7 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * You can see all the repositories and topics you have starred by going to your stars page
 * You can star repositories and topics to discover similar projects on GitHub
 * When you star repositories or topics, GitHub may recommend related content in the discovery view of your news feed
-    * For more information, see "Finding ways to contribute to open source on GitHub."
+    * For more information, see "[Finding ways to contribute to open source on GitHub](https://help.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github)"
 * Starring a repository also shows appreciation to the repository maintainer for their work
 * Many of GitHub's repository rankings depend on the number of stars a repository has
 * In addition, Explore shows popular repositories based on the number of stars they have
