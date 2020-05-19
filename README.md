@@ -47,14 +47,12 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * Select where you want to Fork the Repository to
 * Wait for it to reproduce in that Organization
 <img src='https://recordit.co/QFCxj6Co23.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
-
 ### Add a file to your forked Repository
 * Click on the 'Create new file' button
 * Name and give your new file a valid extension
 * Add content to the file
 * Give a title to the commit
 <img src='https://recordit.co/3U1aiuQU8A.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
-
 ### Create a Pull Request
 * Click on the 'New pull request' button
 * Review the changes you made to the Main Project
