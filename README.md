@@ -25,7 +25,8 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
     * Releases only
     * Watching
     * Ignoring
-<img src='https://recordit.co/AbXU1AgkjQ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />    
+<img src='https://recordit.co/AbXU1AgkjQ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
+
 ---
 ### Star this Repository
 * You can star repositories and topics to keep track of projects you find interesting and discover related content in your news feed
@@ -40,6 +41,7 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * Many of GitHub's repository rankings depend on the number of stars a repository has
 * In addition, Explore shows popular repositories based on the number of stars they have
 ---
+
 ### Fork this Repository
 * Click on the 'Fork' button
 * Select where you want to Fork the Repository to
@@ -59,16 +61,19 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * Click on the 'Create pull request' button
 * Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
 <img src='https://recordit.co/4GI5TP9T0M.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
 ---
 ### Review the Code
 Add details...
 ---
+
 ### Open an Issue
 * Click on the 'Issues' tab
 * Click on the 'New issues' button
 * Give the issues a title and description
 * Click on the 'Submit new issue' button
 <img src='https://recordit.co/QPpN5zdiXh.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
 ---
 ### Interact with an Issue
 * Click on the 'Issues' tab
@@ -96,7 +101,6 @@ Add details...
 * Unsubcribe to the issue
    * Click on the 'Unsubscribe' button
 <img src='https://recordit.co/qPsNBj3Y7d.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-   
 #### Owner Approves Pull Request
 * Owner is notified under the 'Pull requests' tab
 * Click on the 'Pull requests' tab to open the dialog
@@ -106,6 +110,7 @@ Add details...
 * Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
 <img src='https://recordit.co/sHds7wlqZG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 ---
+
 ### Create an Action
 * Click on the 'Actions' tab to open the dialog
 * Review the prebuilt Actions to determine if they suit your needs
@@ -117,6 +122,7 @@ Add details...
 * Click on 'Commit new file' button
 [More on GitHub Actions](https://scotch.io/bar-talk/introducing-github-actions)
 <img src='https://recordit.co/x5KjdwiyhJ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
 ---
 ### Create a Project
 * Click on the 'Projects' tab to open the dialog
@@ -128,20 +134,21 @@ Add details...
    * 'Automated kanban' creates the Basic board but with triggers to move issues and pull requests within the project board
 * Click on the 'Create project' button
 <img src='https://recordit.co/cttn6AhDmP.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-
 #### Add a Card to a Project 
 ---
 ### Create a Wiki
 Add details...
+
 ---
 ### Create a Security Policy
 Add details...
 ---
+
 ### Review Insights
 Add details...
+
 ---
 ### README.md Template
-
 [README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
 ---
 ## Notes
