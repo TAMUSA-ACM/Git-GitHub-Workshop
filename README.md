@@ -18,7 +18,8 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * customize their GitHub profile page
 * create a professional level README.md for a repository
 ---
-### Watch this Repository
+
+## Watch this Repository
 * Click on the 'Watch' dropdown menu
 * Select your preferred notification level
     * Not watching
@@ -27,8 +28,7 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
     * Ignoring
 <img src='https://recordit.co/AbXU1AgkjQ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
----
-### Star this Repository
+## Star this Repository
 * You can star repositories and topics to keep track of projects you find interesting and discover related content in your news feed
 * You can search, sort, and filter your starred repositories and topics on your stars page
     * Click on your 'Avatar' dropdown menu and select 'Your Stars'
@@ -40,41 +40,39 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * Starring a repository also shows appreciation to the repository maintainer for their work
 * Many of GitHub's repository rankings depend on the number of stars a repository has
 * In addition, Explore shows popular repositories based on the number of stars they have
----
 
-### Fork this Repository
+---
+## Fork this Repository
 * Click on the 'Fork' button
 * Select where you want to Fork the Repository to
 * Wait for it to reproduce in that Organization
 <img src='https://recordit.co/QFCxj6Co23.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
-#### Add a file to your forked Repository
+### Add a file to your forked Repository
 * Click on the 'Create new file' button
 * Name and give your new file a valid extension
 * Add content to the file
 * Give a title to the commit
 <img src='https://recordit.co/3U1aiuQU8A.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
-#### Create a Pull Request
+### Create a Pull Request
 * Click on the 'New pull request' button
 * Review the changes you made to the Main Project
 * Click on the 'Create pull request' button
 * Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
 <img src='https://recordit.co/4GI5TP9T0M.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-
 ---
-### Review the Code
+
+## Review the Code
 Add details...
----
 
-### Open an Issue
+---
+## Open an Issue
 * Click on the 'Issues' tab
 * Click on the 'New issues' button
 * Give the issues a title and description
 * Click on the 'Submit new issue' button
 <img src='https://recordit.co/QPpN5zdiXh.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-
----
 ### Interact with an Issue
 * Click on the 'Issues' tab
 * Click on the appropriate issue to open it
@@ -101,8 +99,7 @@ Add details...
 * Unsubcribe to the issue
    * Click on the 'Unsubscribe' button
 <img src='https://recordit.co/qPsNBj3Y7d.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-
-#### Owner Approves Pull Request
+### Owner Approves Pull Request
 * Owner is notified under the 'Pull requests' tab
 * Click on the 'Pull requests' tab to open the dialog
 * Review the changes that are being proposed to your Project
@@ -112,7 +109,7 @@ Add details...
 <img src='https://recordit.co/sHds7wlqZG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 ---
 
-### Create an Action
+## Create an Action
 * Click on the 'Actions' tab to open the dialog
 * Review the prebuilt Actions to determine if they suit your needs
 * After finding your preferred workflow, click on the 'Set up this workflow' button
@@ -125,7 +122,7 @@ Add details...
 <img src='https://recordit.co/x5KjdwiyhJ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ---
-### Create a Project
+## Create a Project
 * Click on the 'Projects' tab to open the dialog
 * Click on the 'Create a project' button
 * Give your project a title and a description
@@ -139,7 +136,14 @@ Add details...
 ---
 
 ### Create a Wiki
-Add details...
+* Click on the 'Wiki' tab to open the dialog
+* Click on the 'Create the first page' button
+* Add content and style the homepage of your new wiki
+* Add additional information
+   * Click on the 'New Page' button
+   * Add content and style to the new page
+   * Add a custom footer and/ or sidebar
+<img src='https://recordit.co/4HHHWG97VG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ---
 ### Create a Security Policy
