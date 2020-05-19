@@ -1,5 +1,7 @@
 # Git + GitHub Workshop
 
+[**Open the Workshop .ppt**]()
+
 ---
 ## Workshop Decription
 This workshop is setup to give an overview of Git and a hands-on exercises on a GitHub practice GitHub repository. At the end of the workshop you should be able to:
@@ -44,14 +46,14 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * Wait for it to reproduce in that Organization
 <img src='https://recordit.co/QFCxj6Co23.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
-### Add a file to your forked Repository
+#### Add a file to your forked Repository
 * Click on the 'Create new file' button
 * Name and give your new file a valid extension
 * Add content to the file
 * Give a title to the commit
 <img src='https://recordit.co/3U1aiuQU8A.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough' />
 
-### Create a Pull Request
+#### Create a Pull Request
 * Click on the 'New pull request' button
 * Review the changes you made to the Main Project
 * Click on the 'Create pull request' button
@@ -95,7 +97,7 @@ Add details...
    * Click on the 'Unsubscribe' button
 <img src='https://recordit.co/qPsNBj3Y7d' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
    
-### Owner Approves Pull Request
+#### Owner Approves Pull Request
 * Owner is notified under the 'Pull requests' tab
 * Click on the 'Pull requests' tab to open the dialog
 * Review the changes that are being proposed to your Project
@@ -117,7 +119,17 @@ Add details...
 <img src='https://recordit.co/x5KjdwiyhJ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ### Create a Project
-Add details...
+* Click on the 'Projects' tab to open the dialog
+* Click on the 'Create a project' button
+* Give your project a title and a description
+* Click on the 'Template: **None**' dropdown menu
+   * 'None' creates a blank board
+   * 'Basic kanban' creates an empty 3-column board (To do, In progress, Done)
+   * 'Automated kanban' creates the Basic board but with triggers to move issues and pull requests within the project board
+* Click on the 'Create project' button
+<img src='https://recordit.co/cttn6AhDmP.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
+#### Add a Card to a Project 
 
 ### Create a Wiki
 Add details...
