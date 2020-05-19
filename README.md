@@ -41,7 +41,6 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * Many of GitHub's repository rankings depend on the number of stars a repository has
 * In addition, Explore shows popular repositories based on the number of stars they have
 
----
 ## Fork this Repository
 * Click on the 'Fork' button
 * Select where you want to Fork the Repository to
@@ -59,18 +58,21 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 * Click on the 'Create pull request' button
 * Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
 <img src='https://recordit.co/4GI5TP9T0M.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
----
+
 
 ## Review the Code
 Add details...
 
----
+
+
+
 ## Open an Issue
 * Click on the 'Issues' tab
 * Click on the 'New issues' button
 * Give the issues a title and description
 * Click on the 'Submit new issue' button
 <img src='https://recordit.co/QPpN5zdiXh.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
 ### Interact with an Issue
 * Click on the 'Issues' tab
 * Click on the appropriate issue to open it
@@ -97,6 +99,7 @@ Add details...
 * Unsubcribe to the issue
    * Click on the 'Unsubscribe' button
 <img src='https://recordit.co/qPsNBj3Y7d.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+
 ### Owner Approves Pull Request
 * Owner is notified under the 'Pull requests' tab
 * Click on the 'Pull requests' tab to open the dialog
@@ -105,7 +108,7 @@ Add details...
 * Click on the 'Confirm merge' button to confirm the merging of the two Projects
 * Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
 <img src='https://recordit.co/sHds7wlqZG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
----
+
 
 ## Create an Action
 * Click on the 'Actions' tab to open the dialog
@@ -119,7 +122,7 @@ Add details...
 [More on GitHub Actions](https://scotch.io/bar-talk/introducing-github-actions)
 <img src='https://recordit.co/x5KjdwiyhJ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
----
+
 ## Create a Project
 * Click on the 'Projects' tab to open the dialog
 * Click on the 'Create a project' button
@@ -130,10 +133,11 @@ Add details...
    * 'Automated kanban' creates the Basic board but with triggers to move issues and pull requests within the project board
 * Click on the 'Create project' button
 <img src='https://recordit.co/cttn6AhDmP.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-#### Add a Card to a Project 
----
 
-### Create a Wiki
+### Add a Card to a Project 
+Add details...
+
+## Create a Wiki
 * Click on the 'Wiki' tab to open the dialog
 * Click on the 'Create the first page' button
 * Add content and style the homepage of your new wiki
@@ -143,20 +147,19 @@ Add details...
    * Add a custom footer and/ or sidebar
 <img src='https://recordit.co/4HHHWG97VG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
----
-### Create a Security Policy
-Add details...
----
-
-### Review Insights
+## Create a Security Policy
 Add details...
 
----
-### README.md Template
+
+## Review Insights
+Add details...
+
+
+## README.md Template
 [README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
----
-## Notes
 
+
+## Notes
 Describe any challenges encountered while building the app.
 
 ## License 
