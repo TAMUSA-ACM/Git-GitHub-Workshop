@@ -95,7 +95,7 @@ Add details...
    * Assign the Linked pull request to the issue
 * Unsubcribe to the issue
    * Click on the 'Unsubscribe' button
-<img src='https://recordit.co/qPsNBj3Y7d' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+<img src='https://recordit.co/qPsNBj3Y7d.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
    
 #### Owner Approves Pull Request
 * Owner is notified under the 'Pull requests' tab
