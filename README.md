@@ -101,7 +101,6 @@ Add details...
 * Unsubcribe to the issue
    * Click on the 'Unsubscribe' button
 <img src='https://recordit.co/qPsNBj3Y7d.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-
 #### Owner Approves Pull Request
 * Owner is notified under the 'Pull requests' tab
 * Click on the 'Pull requests' tab to open the dialog
@@ -137,6 +136,7 @@ Add details...
 <img src='https://recordit.co/cttn6AhDmP.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 #### Add a Card to a Project 
 ---
+
 ### Create a Wiki
 Add details...
 
