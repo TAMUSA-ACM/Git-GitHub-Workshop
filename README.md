@@ -111,7 +111,6 @@ Add details...
 * Add a description of the changes you made so that the repository owner understands what you are trying to do and why they should approve your request 
 <img src='https://recordit.co/sHds7wlqZG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
-
 ## Create an Action
 * Click on the 'Actions' tab to open the dialog
 * Review the prebuilt Actions to determine if they suit your needs
@@ -123,7 +122,6 @@ Add details...
 * Click on 'Commit new file' button
 [More on GitHub Actions](https://scotch.io/bar-talk/introducing-github-actions)
 <img src='https://recordit.co/x5KjdwiyhJ.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
-
 
 ## Create a Project
 * Click on the 'Projects' tab to open the dialog
@@ -153,11 +151,21 @@ Add details...
    * Click on the 'New Page' button
    * Add content and style to the new page
    * Add a custom footer and/ or sidebar
-<img src='https://recordit.co/4HHHWG97VG.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+[Video Walkthrough](https://recordit.co/4HHHWG97VG)
 
 ## Create a Security Policy
-Add details...
-
+* Click on the 'Security' tab to open the dialog
+* Click on 'Set up a security policy' button
+   * Click on 'Start setup' button
+   * Modify the SECURITY.md file
+* Click on 'View security advisories' link
+   * Click on 'New draft security advisory' button
+   * Fill out the form
+   * Click on the 'Create security advisory' button
+* Click on 'Enable dependency alerts' button
+   * Opens into the 'Settings' dialog
+   * Toggle 'Security alerts' turn on and off alerts on new found vulnerabilities within your repository
+<img src='https://recordit.co/VOaT7fhgf6.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ## Review Insights
 * Click on the 'Insights' tab to open the dialog
@@ -166,10 +174,6 @@ Add details...
 
 ## README.md Template
 [README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
-
-
-## Notes
-Describe any challenges encountered while building the app.
 
 ## License 
 
