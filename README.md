@@ -136,8 +136,14 @@ Add details...
 * Click on the 'Create project' button
 <img src='https://recordit.co/cttn6AhDmP.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
-### Add a Card to a Project 
-Add details...
+### Add a Card to a Project (if project is not automated)
+* Click on the '+' on top of one of the columns
+* Add a title/ short description to the note
+* Click 'Add' button
+* Edit the card by clicking on the 'Elipsis'
+   * Convert card to an issue
+   * Edit card
+<img src='https://recordit.co/W1cjHN1VvI.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ## Create a Wiki
 * Click on the 'Wiki' tab to open the dialog
@@ -154,8 +160,9 @@ Add details...
 
 
 ## Review Insights
-Add details...
-
+* Click on the 'Insights' tab to open the dialog
+* Explore the left sidebar for all of the different insights that GitHub has collected on your repository
+![](https://i.imgur.com/B171fed.png)
 
 ## README.md Template
 [README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
