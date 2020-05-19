@@ -62,11 +62,39 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 Add details...
 
 ### Open an Issue
-Add details...
+* Click on the 'Issues' tab
+* Click on the 'New issues' button
+* Give the issues a title and description
+* Click on the 'Submit new issue' button
+<img src='https://recordit.co/QPpN5zdiXh.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
-### Close an Issue
-Add details...
-
+### Interact with an Issue
+* Click on the 'Issues' tab
+* Click on the appropriate issue to open it
+* Assign the issue to a member of the team
+   * Click on the 'Assignees' gear
+   * Begin entering their GitHub user name
+   * Assign the name to the issue
+* Assign a label to the issue
+   * Click on the 'Labels' gear
+   * Begin entering the name of the label
+   * Assign the label to the issue
+ * Assign a Project to the issue
+   * Click on the 'Projects' gear
+   * Begin entering the name of the project or select where the project resides by the sub tabs
+   * Select the appropriate Project
+* Assign a Milestone to the issue
+   * Click on the 'Milestones' gear
+   * Begin entering the name of the milestone
+   * Assign the milestone to the issue
+* Assign a Linked pull request to the issue
+   * Click on the 'Linked pull request' gear
+   * Begin entering the name of the pull request to link to the issue
+   * Assign the Linked pull request to the issue
+* Unsubcribe to the issue
+   * Click on the 'Unsubscribe' button
+<img src='https://recordit.co/qPsNBj3Y7d' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+   
 ### Owner Approves Pull Request
 * Owner is notified under the 'Pull requests' tab
 * Click on the 'Pull requests' tab to open the dialog
@@ -110,8 +138,6 @@ Add details...
 Describe any challenges encountered while building the app.
 
 ## License 
-
-
 
     Copyright 2020 TAMUSA-ACM
 
