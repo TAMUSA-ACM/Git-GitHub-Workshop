@@ -64,9 +64,26 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 
 ## Review the Code
 * Click on the 'Code' tab to open the dialog (this is also the default view)
-
-
-
+* Click on the 'commits' link
+   * Each row depicted is an individual commit within your respository
+   * Click on the 'Verified' button to view the GitHub key used to sign the commit
+   * Click on the 'Clipboard' button to copy the SHA-1 Hash of that particular commit
+   * Click on the 'Hashed' button to open the dialog to view the changes within that commit
+   * Click on the '<>' button to revert your repository back to that commit
+<img src='https://recordit.co/ArMqpJMaht.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
+* Click on the 'branch' link
+   * You can find all of the branches associated with this repository here 
+   * Click on the 'Yours' button to view all of your branches associated with the repository
+   * Click on the 'Active' button to view all of the active branches associated with the repository
+   * Click on the 'Stale' button to view all of the old branches associated with the repository
+   * Click on the 'All branches' button to view all of the branches associated with the repository
+   * Click on the 'Change default branch' button to change the default branch or create a new default branch
+* Click on the 'packages' link
+   * This allows you to host your repository in one of several packages so that users may easily deploy your product
+* Click on the 'releases' link
+   * This allow you to create release points within your project and tag the repository appropriately
+* Click on the 'contributor' link
+   * This links back to the GitHub Insights Contributor page which allows you to view the contributors of the repository and how much they contributed
 
 ## Open an Issue
 * Click on the 'Issues' tab to open the dialog
