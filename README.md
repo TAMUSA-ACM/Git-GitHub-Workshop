@@ -63,20 +63,20 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 
 
 ## Review the Code
-Add details...
+* Click on the 'Code' tab to open the dialog (this is also the default view)
 
 
 
 
 ## Open an Issue
-* Click on the 'Issues' tab
+* Click on the 'Issues' tab to open the dialog
 * Click on the 'New issues' button
 * Give the issues a title and description
 * Click on the 'Submit new issue' button
 <img src='https://recordit.co/QPpN5zdiXh.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ### Interact with an Issue
-* Click on the 'Issues' tab
+* Click on the 'Issues' tab to open the dialog
 * Click on the appropriate issue to open it
 * Assign the issue to a member of the team
    * Click on the 'Assignees' gear
@@ -151,7 +151,7 @@ Add details...
    * Click on the 'New Page' button
    * Add content and style to the new page
    * Add a custom footer and/ or sidebar
-[Video Walkthrough](https://recordit.co/4HHHWG97VG)
+* [Video Walkthrough](https://recordit.co/4HHHWG97VG)
 
 ## Create a Security Policy
 * Click on the 'Security' tab to open the dialog
@@ -172,8 +172,12 @@ Add details...
 * Explore the left sidebar for all of the different insights that GitHub has collected on your repository
 ![](https://i.imgur.com/B171fed.png)
 
-## README.md Template
+## README.md Examples, Templates and Help
 [README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
+https://github.com/matiassingers/awesome-readme
+https://guides.github.com/features/mastering-markdown/
+https://shields.io/
+https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/
 
 ## License 
 
