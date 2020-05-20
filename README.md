@@ -1,6 +1,6 @@
 # Git + GitHub Workshop
 
-[**Open the Workshop .ppt**]()
+[**Open the Workshop .ppt**](https://github.com/TAMUSA-ACM/Git-GitHub-Workshop/blob/master/Git%20%2B%20GitHub.pptx)
 
 ---
 ## Workshop Decription
