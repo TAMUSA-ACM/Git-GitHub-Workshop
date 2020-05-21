@@ -191,11 +191,11 @@ quick change
 ![](https://i.imgur.com/B171fed.png)
 
 ## README.md Examples, Templates and Help
-[README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
-https://github.com/matiassingers/awesome-readme
-https://guides.github.com/features/mastering-markdown/
-https://shields.io/
-https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/
+* [README.md Template](https://hackmd.io/BP13m1m-RICcitnrwWarbQ?edit)
+* https://github.com/matiassingers/awesome-readme
+* https://guides.github.com/features/mastering-markdown/
+* https://shields.io/
+* https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/
 
 ## License 
 
