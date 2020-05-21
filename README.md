@@ -185,6 +185,7 @@ This workshop is setup to give an overview of Git and a hands-on exercises on a 
 <img src='https://recordit.co/VOaT7fhgf6.gif' title='Video Walkthrough' width='750' alt='Video Walkthrough'/>
 
 ## Review Insights
+quick change
 * Click on the 'Insights' tab to open the dialog
 * Explore the left sidebar for all of the different insights that GitHub has collected on your repository
 ![](https://i.imgur.com/B171fed.png)
